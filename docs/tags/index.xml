@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 1st International Workshop on the Evaluation of Model-DrivenEngineering Contributions</title>
-    <link>evalMDE/tags/</link>
+    <link>https://ace-design.github.io/evalMDE/tags/</link>
     <description>Recent content in Tags on 1st International Workshop on the Evaluation of Model-DrivenEngineering Contributions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,7 +10,7 @@
     <webMaster>mosser.sebastien@uqam.ca (Sébastien Mosser)</webMaster>
     <copyright>co-located with MODELS 2019 at Munich</copyright>
     
-	<atom:link href="evalMDE/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ace-design.github.io/evalMDE/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

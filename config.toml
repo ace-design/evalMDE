@@ -1,4 +1,4 @@
-baseURL = "evalMDE/"
+baseURL = "https://ace-design.github.io/evalMDE"
 languageCode = "en-us"
 theme = "hugo-bootstrap-premium-wkshop"
 
