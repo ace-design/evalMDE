@@ -3,44 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ace-design.github.io/devops-at-models/</loc>
+    <loc>evalMDE/</loc>
     <lastmod>2019-05-07T20:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ace-design.github.io/devops-at-models/post/</loc>
+    <loc>evalMDE/post/</loc>
     <lastmod>2019-05-07T20:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ace-design.github.io/devops-at-models/2019/05/07/home/</loc>
+    <loc>evalMDE/2019/05/07/home/</loc>
     <lastmod>2019-05-07T20:00:00-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ace-design.github.io/devops-at-models/cfp/</loc>
+    <loc>evalMDE/committees/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ace-design.github.io/devops-at-models/committees/</loc>
+    <loc>evalMDE/dates/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ace-design.github.io/devops-at-models/dates/</loc>
+    <loc>evalMDE/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ace-design.github.io/devops-at-models/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ace-design.github.io/devops-at-models/topics/</loc>
+    <loc>evalMDE/topics/</loc>
     <priority>0</priority>
   </url>
   

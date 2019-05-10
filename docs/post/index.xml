@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 1st International Workshop on DevOps@MODELS</title>
-    <link>https://ace-design.github.io/devops-at-models/post/</link>
-    <description>Recent content in Posts on 1st International Workshop on DevOps@MODELS</description>
+    <title>Posts on 1st International Workshop on the Evaluation of Model-DrivenEngineering Contributions</title>
+    <link>evalMDE/post/</link>
+    <description>Recent content in Posts on 1st International Workshop on the Evaluation of Model-DrivenEngineering Contributions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>mosser.sebastien@uqam.ca (Sébastien Mosser)</managingEditor>
@@ -11,18 +11,18 @@
     <copyright>co-located with MODELS 2019 at Munich</copyright>
     <lastBuildDate>Tue, 07 May 2019 20:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://ace-design.github.io/devops-at-models/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="evalMDE/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome!</title>
-      <link>https://ace-design.github.io/devops-at-models/2019/05/07/home/</link>
+      <link>evalMDE/2019/05/07/home/</link>
       <pubDate>Tue, 07 May 2019 20:00:00 -0400</pubDate>
       <author>mosser.sebastien@uqam.ca (Sébastien Mosser)</author>
-      <guid>https://ace-design.github.io/devops-at-models/2019/05/07/home/</guid>
-      <description>1st international workshop on DevOps co-located with MODELS! 
-In this workshop, we are interested in the different aspects of DevOps and modelling, more specifically the relationship that exists between modelling and DevOps, and its opposite between DevOps and modelling. In addition to research contributions, we are also interested in contributions related to the teaching of such topics.
-Motivations To succeed with the development, deployment, and operation of the new generation of systems developed in the context of digital transformation, cloud, smart technologies, IoT, and 5G, organizations need the agility to adapt to constantly evolving environments to deliver solutions faster and solutions that can be better adapted to the user needs and environments.</description>
+      <guid>evalMDE/2019/05/07/home/</guid>
+      <description>1st international workshop on the Evaluation of Model-Driven Engineering Contributions 
+This workshop is co-located with MODELS, in Munich. It will be a discussion-based event, calling for extended abstracts to kickstart such discussions. We will host a keynote by Lionel Briand (University of Luxembourg) about empirical evaluation.
+In software engineering (SE), the intrinsic softness of the element under study often makes the evaluation process fuzzy. Moreover, Model-Driven Engineering (MDE) faces specific challenges which are not so profound in other areas of software engineering.</description>
     </item>
     
   </channel>

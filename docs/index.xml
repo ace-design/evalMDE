@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1st International Workshop on DevOps@MODELS</title>
-    <link>https://ace-design.github.io/devops-at-models/</link>
-    <description>Recent content on 1st International Workshop on DevOps@MODELS</description>
+    <title>1st International Workshop on the Evaluation of Model-DrivenEngineering Contributions</title>
+    <link>evalMDE/</link>
+    <description>Recent content on 1st International Workshop on the Evaluation of Model-DrivenEngineering Contributions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>mosser.sebastien@uqam.ca (Sébastien Mosser)</managingEditor>
@@ -11,44 +11,36 @@
     <copyright>co-located with MODELS 2019 at Munich</copyright>
     <lastBuildDate>Tue, 07 May 2019 20:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://ace-design.github.io/devops-at-models/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="evalMDE/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome!</title>
-      <link>https://ace-design.github.io/devops-at-models/2019/05/07/home/</link>
+      <link>evalMDE/2019/05/07/home/</link>
       <pubDate>Tue, 07 May 2019 20:00:00 -0400</pubDate>
       <author>mosser.sebastien@uqam.ca (Sébastien Mosser)</author>
-      <guid>https://ace-design.github.io/devops-at-models/2019/05/07/home/</guid>
-      <description>1st international workshop on DevOps co-located with MODELS! 
-In this workshop, we are interested in the different aspects of DevOps and modelling, more specifically the relationship that exists between modelling and DevOps, and its opposite between DevOps and modelling. In addition to research contributions, we are also interested in contributions related to the teaching of such topics.
-Motivations To succeed with the development, deployment, and operation of the new generation of systems developed in the context of digital transformation, cloud, smart technologies, IoT, and 5G, organizations need the agility to adapt to constantly evolving environments to deliver solutions faster and solutions that can be better adapted to the user needs and environments.</description>
+      <guid>evalMDE/2019/05/07/home/</guid>
+      <description>1st international workshop on the Evaluation of Model-Driven Engineering Contributions 
+This workshop is co-located with MODELS, in Munich. It will be a discussion-based event, calling for extended abstracts to kickstart such discussions. We will host a keynote by Lionel Briand (University of Luxembourg) about empirical evaluation.
+In software engineering (SE), the intrinsic softness of the element under study often makes the evaluation process fuzzy. Moreover, Model-Driven Engineering (MDE) faces specific challenges which are not so profound in other areas of software engineering.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://ace-design.github.io/devops-at-models/cfp/</link>
+      <link>evalMDE/committees/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>mosser.sebastien@uqam.ca (Sébastien Mosser)</author>
-      <guid>https://ace-design.github.io/devops-at-models/cfp/</guid>
-      <description>Call for Participation In the context of software development, DevOps focuses on optimizing the flow of activities involved in the creation of end user value, from idea to deployed functionality and operating systems. It includes different software development paradigms and techniques such as continuous integration or deployment, runtime monitoring, analytics, or self-adaptation of systems. Classicaly, these paradigms are implemented in a handmade way by DevOps engineers, and there is no formal support to validate the defined environment, even if they are critical in the product life-cycle.</description>
+      <guid>evalMDE/committees/</guid>
+      <description>Committees Organizing Committee  Arnaud Blouin (Univ Rennes, INSA Rennes, Inria, CNRS, IRISA), Loli Burgueño (Open University of Catalonia, CEA List) Nicholas Matragkas (University of York), Sébastien Mosser (Université du Québec à Montréal) Richard Paige (McMaster University)  Program Committee 
+TBA</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://ace-design.github.io/devops-at-models/committees/</link>
+      <link>evalMDE/dates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>mosser.sebastien@uqam.ca (Sébastien Mosser)</author>
-      <guid>https://ace-design.github.io/devops-at-models/committees/</guid>
-      <description>Committees Organizing Committee Francis Bordeleau is professor at École de Technologie Supérieure (ETS) in Montréal. He is currently working on establishing of an industry research chair, which includes the development on new course, on DevOps. He has over 25 years of experience in software and model-based engineering (MBE); researching, working, consulting, and collaborating with companies worldwide. Prior to joining ETS, he was the founder of Cmind (2017-), product manager of SW Development at Ericsson (2013-2017), founder and CEO of Zeligsoft (2003-2013), director of Tooling Business for PrismTech (2010-2013), and assistant professor at Carleton University (1997-2006).</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ace-design.github.io/devops-at-models/dates/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>mosser.sebastien@uqam.ca (Sébastien Mosser)</author>
-      <guid>https://ace-design.github.io/devops-at-models/dates/</guid>
+      <guid>evalMDE/dates/</guid>
       <description> Important Dates  Submission Deadline: June 20, 2019 Notification: July 15, 2019 Workshop date: Between September 15-17, 2019  </description>
     </item>
     
