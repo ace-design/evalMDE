@@ -1,0 +1,114 @@
+baseURL = "evalMDE/"
+languageCode = "en-us"
+theme = "hugo-bootstrap-premium-wkshop"
+
+title = "1st Workshop on the Evaluation of Model-DrivenEngineering Contribution"
+
+
+# SES friendly url:s
+canonifyurls = true
+
+# Metadata format
+# "yaml", "toml", "json"
+metaDataFormat = "toml"
+
+# Pagination
+paginate = 3
+paginatePath = "page"
+
+publishDir = "docs"
+
+[permalinks]
+    post = "/:year/:month/:day/:filename/"
+    code = "/:filename/"
+
+[taxonomies]
+    tag = "tags"
+    topic = "topics"
+
+[author]
+    name = "Sébastien Mosser"
+    email = "mosser.sebastien@uqam.ca"
+
+#
+# All parameters below here are optional and can be mixed and matched.
+#
+
+[params]
+  # bootswatch theme name, select one: cerulean, cosmo, cyborg, darkly,
+  # default, flatly, journal,  lumen, paper, readable, sandstone, simplex,
+  # slate, spacelab, superhero, united, yeti.
+
+  bootswatchtheme = "flatly"
+
+
+    # menu for changing language. This changes languages with js and stores the choice with the help
+    # of JavaScript in a Cookie. Then the path is rewritten with pathnamereplace.js. The name of the
+    # md files needs to have the same name for each language abbreviation to work correctly. Example:
+    # showcase.en.md and showcase.sv.md. It only works if DefaultContentLanguageInSubdir = true
+    switchlang = false
+
+    # You can use markdown here.
+    BrandImage = "/logo.png" #top header brand image.
+    brand = "EvalMDE logo" # brand image alt text.
+    topline = "aveluation models workshop"
+    footline = "1st International Workshop on the Evaluation of Model-DrivenEngineering Contribution"
+
+    # Show a sidebar menu
+    showRightSidebar = false
+
+    # Text for the top menu link, which goes the root URL for the site.
+    # Default (if omitted) is "Home".
+    home = "Home"
+
+    # Select a syntax highight.
+    # Check the static/css/highlight directory for options.
+    highlight = "default"
+
+
+[blackfriday]
+    angledQuotes = true
+    fractions = false
+    hrefTargetBlank = false
+    latexDashes = true
+    plainIdAnchors = true
+    extensions = []
+    extensionmask = []
+
+    [Languages]
+    [Languages.en]
+    weight = 1
+    copyright = "co-located with MODELS 2019 at Munich"
+    title = "1st International Workshop on the Evaluation of Model-DrivenEngineering Contributions" # Site title
+
+    [[Languages.en.menu.main]]
+    name = "Home"
+    weight = 1
+    identifier = ""
+    url = "./"
+
+    [[Languages.en.menu.main]]
+    name = "Important Dates"
+    pre = ""
+    weight = 2
+    identifier = "post"
+    url = "./dates"
+
+    [[Languages.en.menu.main]]
+    name = "Committees"
+    identifier = ""
+    weight = 3
+    url = "./committees"
+
+#    [[Languages.en.menu.footer]] # add  links to the bottom right corner.
+#    name = "Disclaimer"
+#    pre = "<i>&middot;</i>"
+#    identifier = "disclaimer"
+#    weight = 1
+#    url = "/disclaimer/"
+
+#    [[Languages.en.menu.footer]]
+#    name = "Terms"
+#    identifier = "terms"
+#    weight = 2
+#    url = "/terms/"

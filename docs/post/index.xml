@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 1st International Workshop on DevOps@MODELS</title>
+    <link>https://ace-design.github.io/devops-at-models/post/</link>
+    <description>Recent content in Posts on 1st International Workshop on DevOps@MODELS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>mosser.sebastien@uqam.ca (Sébastien Mosser)</managingEditor>
+    <webMaster>mosser.sebastien@uqam.ca (Sébastien Mosser)</webMaster>
+    <copyright>co-located with MODELS 2019 at Munich</copyright>
+    <lastBuildDate>Tue, 07 May 2019 20:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://ace-design.github.io/devops-at-models/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome!</title>
+      <link>https://ace-design.github.io/devops-at-models/2019/05/07/home/</link>
+      <pubDate>Tue, 07 May 2019 20:00:00 -0400</pubDate>
+      <author>mosser.sebastien@uqam.ca (Sébastien Mosser)</author>
+      <guid>https://ace-design.github.io/devops-at-models/2019/05/07/home/</guid>
+      <description>1st international workshop on DevOps co-located with MODELS! 
+In this workshop, we are interested in the different aspects of DevOps and modelling, more specifically the relationship that exists between modelling and DevOps, and its opposite between DevOps and modelling. In addition to research contributions, we are also interested in contributions related to the teaching of such topics.
+Motivations To succeed with the development, deployment, and operation of the new generation of systems developed in the context of digital transformation, cloud, smart technologies, IoT, and 5G, organizations need the agility to adapt to constantly evolving environments to deliver solutions faster and solutions that can be better adapted to the user needs and environments.</description>
+    </item>
+    
+  </channel>
+</rss>
