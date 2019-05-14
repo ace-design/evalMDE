@@ -35,6 +35,9 @@ Our objective is to bring together, in an unique forum, people from different so
 
 ## Contribute!
 
-The workshop will not follow a classical paper-based approach. We defend that it is necessary to lower the entry barrier to gather a large audience a obtain fruitful discussions. So, we will only call for extended abstract of up to two pages (LNCS format). This very short format will help  to present the participant's point of view and will serve as a starting point for discussions. We will particularly look forward to examples of validation encountered by the participants, either good or bad.
+The workshop will not follow a classical paper-based approach. We defend that it is necessary to lower the entry barrier to gather a large audience a obtain fruitful discussions.
 
-Contact & easychair link: TBA
+**So, we will only call for extended abstract of up to two pages (LNCS format)**. This very short format will help  to present the participant's point of view and will serve as a starting point for discussions. We will particularly look forward to examples of validation encountered by the participants, either good or bad.
+
+  - Contact: [evalmde19@easychair.org](evalmde19@easychair.org)
+  - Easychair link for submission : [https://easychair.org/my/conference?conf=evalmde19](https://easychair.org/my/conference?conf=evalmde19)

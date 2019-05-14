@@ -1,5 +1,5 @@
 # Important Dates
 
-  - Submission Deadline: June 20, 2019
-  - Notification: July 15, 2019
-  -  Workshop date: Between September 15-17, 2019
+  - Submission Deadline: July 05, 2019
+  - Notification: July 22, 2019
+  - Workshop: Between September 15-17, 2019
